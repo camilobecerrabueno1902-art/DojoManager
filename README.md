@@ -1,4 +1,4 @@
-# DojoManager 🥋
+# DojoManager
 Sistema de Control de Alumnos, Asistencias y Grados para Academia de Artes Marciales.
 
 ##  Descripción del Proyecto
